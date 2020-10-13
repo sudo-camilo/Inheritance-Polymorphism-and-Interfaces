@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\bin\Debug\CIT265_Truman_T_A3.exe.config
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\bin\Debug\CIT265_Truman_T_A3.exe
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\bin\Debug\CIT265_Truman_T_A3.pdb
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\obj\Debug\CIT265_Truman_T_A3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\obj\Debug\CIT265_Truman_T_A3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\obj\Debug\CIT265_Truman_T_A3.exe
+C:\Users\User\Desktop\Programming\CIT265_Truman_T_A3\CIT265_Truman_T_A3\obj\Debug\CIT265_Truman_T_A3.pdb
